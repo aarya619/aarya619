@@ -243,6 +243,25 @@ Designing efficient data storage solutions
 
 </div>
 
+---
+
+# 🚀 Featured Projects
+
+
+<div align="center">
+
+| 🚀 Project | 🛠 Technology | 📌 Description |
+|---|---|---|
+| 🏏 IPL Analytics Dashboard | Python • Pandas • Plotly | Interactive cricket data analysis & visualization platform |
+| ⛽ Petrol Price Analytics | Python • SQL • Dashboard | Data-driven fuel price analysis and insights |
+| 💍 Wedding Analytics Dashboard | Python • ML • Visualization | Cost prediction and event data analysis system |
+| 🌐 Portfolio Website | React • Tailwind CSS | Modern responsive personal developer portfolio |
+
+</div>
+
+
+---
+
 
 <div align="center">
 
