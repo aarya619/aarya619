@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Aarya Kothe Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋 I'm Aarya Kothe</h1>
+
+<h3 align="center">
+🚀 Electronics Engineer | Frontend Developer | Data Analyst | ML Enthusiast
+</h3>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aarya%20Kothe&fontSize=65&fontAlignY=35&animation=fadeIn"/>
