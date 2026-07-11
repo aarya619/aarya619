@@ -20,9 +20,9 @@
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-Hello! I'm **Shiv Patil** 👋
+Hello! I'm **AARYA KOTHE** 👋
 
-A passionate **Computer Science Developer** focused on building modern applications and extracting meaningful insights from data.
+A passionate **ELECTRONIC ENGINEER Science Developer** focused on building modern applications and extracting meaningful insights from data.
 
 My areas of interest:
 
