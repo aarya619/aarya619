@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Shiv%20Patil&fontSize=65&fontAlignY=35&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aarya%20Kothe&fontSize=65&fontAlignY=35&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Java+%7C+Python+Developer;Building+Data+Driven+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Java+%7C+Python+Developer;Building+Data+Driven+Applications"/>
 
 <br><br>
 
 <img src="https://img.shields.io/github/followers/aarya619?style=for-the-badge&logo=github&color=black"/>
+
 <img src="https://komarev.com/ghpvc/?username=aarya619&style=for-the-badge&color=blue"/>
 
 </div>
@@ -20,33 +21,40 @@
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-Hello! I'm **AARYA KOTHE** 👋
+Hello! I'm **Aarya Kothe** 👋
 
-A passionate **ELECTRONIC ENGINEER Science Developer** focused on building modern applications and extracting meaningful insights from data.
+
+I am an **Electronics Engineer and Software Developer** passionate about building modern applications, analyzing data, and solving real-world problems using technology.
+
 
 My areas of interest:
 
+
 💻 Frontend Development  
-📊 Data Analytics & Visualization  
+📊 Data Analytics & Data Visualization  
 🤖 Machine Learning Fundamentals  
-🗄️ SQL & Database Systems  
+🗄️ SQL & Database Management  
 ⚡ Data Structures & Algorithms  
+🌐 Software Development  
 
 
-I love creating:
+I enjoy creating:
+
 
 ✨ Interactive Web Applications  
-✨ Business Intelligence Dashboards  
-✨ Data Analysis Projects  
-✨ Machine Learning Models  
+✨ Data Analytics Dashboards  
+✨ Machine Learning Projects  
+✨ Efficient Algorithms & Solutions  
 
 
-Currently learning:
+Currently improving my skills in:
+
 
 🚀 Advanced Java  
 🚀 Full Stack Development  
 🚀 Machine Learning  
 🚀 System Design  
+🚀 Cloud & Deployment  
 
 
 <br clear="right"/>
@@ -58,6 +66,7 @@ Currently learning:
 
 
 ## 🚀 Programming Languages
+
 
 <p align="center">
 
@@ -79,3 +88,4 @@ Currently learning:
 
 
 Skills:
+
