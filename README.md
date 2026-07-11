@@ -1,153 +1,243 @@
-<!-- ======================= BANNER ======================= -->
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Aarya</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aarya%20Kumar&fontSize=70&fontAlignY=35&animation=twinkling"/>
+
+</div>
+
+
+<h1 align="center">
+👋 Hi, I'm Aarya Kothe
+</h1>
 
 <h3 align="center">
-Software Developer • Computer Science Engineering Student
+🚀 Software Developer | Data Analyst | AI Enthusiast | Problem Solver
 </h3>
 
-<p align="center">
-Passionate about building modern web applications, solving real-world problems, and continuously learning new technologies.
-</p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aarya619&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Exploring+AI+%26+Machine+Learning;Creating+Beautiful+Data+Solutions;Always+Learning+New+Technologies"/>
 
 </p>
+
 
 ---
 
 # 🚀 About Me
 
-🎓 ELECTRONICS COMMUNICATION Engineering Student
 
-💻 Aspiring Software Developer
+🎓 Electronic Engineer Student
 
-🌱 Currently learning Full Stack Development
+💻 Passionate about Software Development, Data Science & Artificial Intelligence
 
-📊 Interested in Data Analytics & AI
+🔥 Building practical projects that solve real-world problems
 
-⚡ Passionate about Problem Solving
+📊 Interested in:
+- Machine Learning
+- Data Analytics
+- Backend Development
+- Cloud Technologies
+- Automation
 
-🎯 Goal: Software Engineer
 
----
+Currently working on:
 
-# 💻 Tech Stack
+🚀 Advanced Analytics Dashboards  
+🤖 AI/ML Projects  
+🌐 Full Stack Applications  
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,vscode&perline=5"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aarya619&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarya619&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🛠️ Tech Stack
 
-<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=aarya619&theme=tokyonight"/>
+## Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,sql"/>
+
+</p>
+
+
+## Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql"/>
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
+## Data & AI
 
-<p align="center">
+<p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aarya619&theme=tokyonight&column=4"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
 </p>
+
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
+
+</p>
+
 
 ---
 
 # 📌 Featured Projects
 
-### 💼 Aarya Portfolio
 
-Modern responsive developer portfolio built using HTML, CSS & JavaScript.
+## 🏏 IPL Analytics Dashboard
 
-### ⛽ Petrol Stats Dashboard
+Advanced cricket analytics system with:
 
-Interactive analytics dashboard using Python, Streamlit, Pandas & Plotly.
+✅ Data Cleaning  
+✅ Interactive Visualizations  
+✅ Player Performance Analysis  
+✅ Machine Learning Predictions  
 
-### 💍 Wedding Analytics Dashboard
 
-Business intelligence dashboard with interactive charts.
+Tech:
 
-### 🌾 FarmKart
+Python • Pandas • Plotly • Machine Learning
 
-Modern Agriculture Marketplace Website.
-
-### 📚 Library Management System
-
-MySQL Database Project demonstrating SQL concepts.
-
-### 📘 Java DSA
-
-Interview preparation programs in Java.
 
 ---
 
-# 📈 Contribution Graph
+## ⛽ Petrol Price Analytics
+
+Data analysis dashboard for fuel price trends.
+
+Features:
+
+📈 Trend Analysis  
+📊 Interactive Charts  
+🤖 Prediction Models  
+
+
+---
+
+## 💍 Wedding Analytics Dashboard
+
+Business intelligence dashboard analyzing:
+
+- Cost patterns
+- Customer trends
+- Category insights
+
+
+---
+
+# 📊 GitHub Analytics
+
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aarya619&theme=tokyo-night"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aarya619&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarya619&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarya619&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 🏆 Achievements
+
+
+🏅 Building production-level projects
+
+🏅 Learning advanced Computer Science concepts
+
+🏅 Exploring AI and Data Engineering
+
+
+---
+
+# 📚 Currently Learning
+
+
+🔹 Advanced Data Structures & Algorithms
+
+🔹 System Design
+
+🔹 Machine Learning
+
+🔹 Cloud Computing
+
+🔹 Open Source Development
+
 
 ---
 
 # 🌐 Connect With Me
 
+
 <p align="center">
 
-<a href="https://github.com/aarya619">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/>
 </a>
 
-<a href="mailto:your-aaryakothe2@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
----
-
-# 🚀 Portfolio
-
-🌍 YOUR_PORTFOLIO_URL
 
 ---
 
-# 💡 Quote
+# 🐍 Contribution Snake
 
-> "Code. Learn. Build. Repeat."
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
 
 ---
 
-<h3 align="center">
+# ⚡ Developer Quote
 
-⭐ Thanks for visiting my profile ⭐
 
-</h3>
+<div align="center">
+
+"First solve the problem. Then write the code."
+
+</div>
+
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
