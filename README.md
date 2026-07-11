@@ -1,211 +1,131 @@
-<!-- ================= HEADER ================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aarya%20Kumar&fontSize=70&fontAlignY=35&animation=twinkling"/>
+<img src="assets/banner.png" width="100%">
+
+<h1>
+Hi 👋 I'm Aarya Kothe
+</h1>
+
+<h3>
+🚀 Frontend Developer | Data Analyst | AI Enthusiast
+</h3>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&width=700&lines=Building+Real+World+Projects;Learning+AI+%26+Machine+Learning;Creating+Data+Driven+Solutions">
+
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=aarya619&style=for-the-badge&color=blue">
+
 
 </div>
 
 
-<h1 align="center">
-👋 Hi, I'm Aarya Kothe
-</h1>
+---
 
-<h3 align="center">
-🚀 Software Developer | Data Analyst | AI Enthusiast | Problem Solver
-</h3>
+# 👨‍💻 About Me
 
 
-<p align="center">
+Hello! I'm **Aarya KOTHE**.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Exploring+AI+%26+Machine+Learning;Creating+Beautiful+Data+Solutions;Always+Learning+New+Technologies"/>
+I am passionate about:
 
-</p>
+- 💻 Software Development
+- 🤖 Artificial Intelligence
+- 📊 Data Analytics
+- 🧠 Machine Learning
+- 🚀 Problem Solving
+
+
+I love creating projects that combine:
+
+**Technology + Data + Real World Applications**
 
 
 ---
 
-# 🚀 About Me
+# 🛠 Tech Stack
 
 
-🎓 Electronic Engineer Student
+## Languages
 
-💻 Passionate about Software Development, Data Science & Artificial Intelligence
-
-🔥 Building practical projects that solve real-world problems
-
-📊 Interested in:
-- Machine Learning
-- Data Analytics
-- Backend Development
-- Cloud Technologies
-- Automation
-
-
-Currently working on:
-
-🚀 Advanced Analytics Dashboards  
-🤖 AI/ML Projects  
-🌐 Full Stack Applications  
-
-
----
-
-# 🛠️ Tech Stack
-
-
-## Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,sql"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,sql">
 
 
 ## Development
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mongodb,mysql">
 
 
-## Data & AI
+## AI / Data
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch">
 
 
 ## Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux">
 
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 
 ## 🏏 IPL Analytics Dashboard
 
-Advanced cricket analytics system with:
+Advanced cricket analytics system.
 
-✅ Data Cleaning  
-✅ Interactive Visualizations  
-✅ Player Performance Analysis  
-✅ Machine Learning Predictions  
+Features:
 
-
-Tech:
-
-Python • Pandas • Plotly • Machine Learning
+✅ Player analysis  
+✅ Team comparison  
+✅ Interactive visualization  
+✅ Performance insights  
 
 
 ---
 
 ## ⛽ Petrol Price Analytics
 
-Data analysis dashboard for fuel price trends.
+Data analysis project for fuel price trends.
 
 Features:
 
-📈 Trend Analysis  
-📊 Interactive Charts  
-🤖 Prediction Models  
+📊 Dashboard  
+📈 Trend analysis  
+🤖 Prediction models  
 
 
 ---
 
 ## 💍 Wedding Analytics Dashboard
 
-Business intelligence dashboard analyzing:
+Business analytics solution.
 
-- Cost patterns
-- Customer trends
+Features:
+
+- Cost analysis
 - Category insights
+- Data visualization
 
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aarya619&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aarya619&show_icons=true&theme=tokyonight">
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarya619&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarya619&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-# 🏆 Achievements
-
-
-🏅 Building production-level projects
-
-🏅 Learning advanced Computer Science concepts
-
-🏅 Exploring AI and Data Engineering
-
-
----
-
-# 📚 Currently Learning
-
-
-🔹 Advanced Data Structures & Algorithms
-
-🔹 System Design
-
-🔹 Machine Learning
-
-🔹 Cloud Computing
-
-🔹 Open Source Development
-
-
----
-
-# 🌐 Connect With Me
-
-
-<p align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarya619&theme=tokyonight">
 
 </p>
 
@@ -215,29 +135,41 @@ Business intelligence dashboard analyzing:
 # 🐍 Contribution Snake
 
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/aarya619/aarya619/output/github-contribution-grid-snake.svg">
 
 
 ---
 
-# ⚡ Developer Quote
+# 📚 Currently Learning
 
 
-<div align="center">
+🔥 DATA STRUCTURE ALGORITHM DSA
 
-"First solve the problem. Then write the code."
+🔥 FRONTEND DEVLOPMENT
 
-</div>
+🔥 DATA ANALYSIS
+
+🔥 Machine Learning
+
+🔥 Open Source
+
+
+---
+
+# 🌐 Connect With Me
+
+
+LinkedIn:
+())
+
+Portfolio:
+((https://aarya-portfolio-theta.vercel.app/)
 
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+⭐ Thanks for visiting my profile ⭐
 
 </div>
