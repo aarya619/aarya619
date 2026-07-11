@@ -83,7 +83,7 @@ Currently improving my skills in:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
 
 </p>
 
@@ -95,7 +95,7 @@ Currently improving my skills in:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,"/>
 
 </p>
 
