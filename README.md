@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.png" width="100%">
+<img src="banner.png" width="40%">
 </div>
 
 <h1 align="center">Hi 👋 I'm Aarya Kothe</h1>
