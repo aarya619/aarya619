@@ -170,6 +170,58 @@ Portfolio:
 
 <div align="center">
 
+
+# 📊 GitHub Stats
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aarya619&show_icons=true&theme=tokyonight">
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarya619&theme=tokyonight">
+
+</p>
+
+
+
+⬇️ ADD SNAKE CODE HERE ⬇️
+
+
+<h2 align="center">
+🐍 My GitHub Contribution Journey
+</h2>
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/aarya619/aarya619/output/github-contribution-grid-snake.svg">
+
+</p>
+
+
+
+⬆️ END SNAKE SECTION ⬆️
+
+
+
+# 📚 Currently Learning
+
+
+🔥 Advanced DSA
+
+🔥 Machine Learning
+
+🔥 System Design
+
+
+
+# 🌐 Connect With Me : aaryakothe2@gmail.com
+
 ⭐ Thanks for visiting my profile ⭐
 
 </div>
