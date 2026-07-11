@@ -1,6 +1,7 @@
 <div align="center">
-<img src="banner.png" width="95%">
+<img src="banner.png" width="100%" height="180">
 </div>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Java+%7C+Python+Developer">
 
