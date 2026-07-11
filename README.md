@@ -235,6 +235,14 @@ Designing efficient data storage solutions
 
 # 🐍 My Coding Journey
 
+<div align="center">
+
+## 🚀 My Code Journey
+
+⌨️ Code  •  🧩 Solve  •  📈 Improve  •  🌎 Build  •  ✨ Innovate
+
+</div>
+
 
 <div align="center">
 
