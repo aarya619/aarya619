@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Aarya Kothe Banner" width="100%">
-</p>
+<div align="center">
+<img src="banner.png" width="100%">
+</div>
 
 <h1 align="center">Hi 👋 I'm Aarya Kothe</h1>
 
